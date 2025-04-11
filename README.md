@@ -1,0 +1,1 @@
+用于存放Prejudice Studio所翻译的动画字幕
